@@ -1,0 +1,88 @@
+title: Landtagswahl Bayern 2013
+questions:
+ - In Bayern sollen Geschäfte an Werktagen länger geöffnet haben dürfen.
+ - In die Bayerische Verfassung soll eine Schuldenbremse aufgenommen werden.
+ - Autofahrer aus dem Ausland sollen für die Nutzung deutscher Autobahnen bezahlen.
+ - Bei Neuvermietungen sollen sich Vermieter an regionale Mietobergrenzen halten müssen.
+ - Das Land soll die ökologische Landwirtschaft stärker finanziell fördern.
+ - Mehr Videoüberwachung auf öffentlichen Plätzen!
+ - Alle Kinder sollen ungeachtet ihres kulturellen Hintergrundes gemeinsam unterrichtet werden.
+ - Auch der Besitz von nur geringen Mengen Cannabis soll strafrechtlich verfolgt werden.
+ - Die wirtschaftlich stärkeren Länder sollen weniger an die wirtschaftlich schwächeren Länder zahlen müssen.
+ - Der Bau von Minaretten soll verboten werden.
+ - Bayern soll sich dafür einsetzen, dass alle Studierenden BAföG unabhängig vom Einkommen ihrer Eltern erhalten können.
+ - Auch in Bayern soll nach Endlagerstätten für Atommüll gesucht werden.
+ - Der Freistaat Bayern soll die Bewerbung Münchens für die olympischen Winterspiele 2022 finanziell unterstützen.
+ - Einführung einer Frauenquote für Führungspositionen im öffentlichen Dienst!
+ - Das Land soll weiterhin Projekte gegen politischen Extremismus fördern.
+ - Das dreigliedrige Schulsystem (Mittelschule, Realschule, Gymnasium) soll erhalten bleiben.
+ - Das Land soll sich dafür einsetzen, dass die Vermögensteuer wieder erhoben wird.
+ - Keine Solaranlagen auf landwirtschaftlichen Flächen!
+ - Mehr Menschen mit Migrationshintergrund sollen im Polizeidienst arbeiten.
+ - Keine Privatisierung von Krankenhäusern!
+ - Vollständige Gleichstellung von Ehe und gleichgeschlechtlicher Lebenspartnerschaft.
+ - Abgabe von Entscheidungsbefugnissen an die Europäische Union nur durch Volksentscheid!
+ - Deutsche sollen bei der Vergabe von Sozialwohnungen bevorzugt werden.
+ - Bei Landtagswahlen: Wählen ab 16!
+ - Steuerhinterziehung soll weiterhin bei Selbstanzeige straffrei bleiben.
+ - Das Bayerische Landesamt für Verfassungsschutz soll aufgelöst werden.
+ - Jeder Schulabsolvent soll einen gesetzlichen Anspruch auf einen Ausbildungsplatz haben.
+ - Die finanzielle Unterstützung für einkommensschwache Familien (Landeserziehungsgeld) soll beibehalten werden.
+ - Polizisten und Polizistinnen sollen bei Großeinsätzen eine gut lesbare, individuelle Kennung tragen müssen.
+ - Die Stromsteuer soll gesenkt werden.
+ - Das letzte Kindergartenjahr vor der Einschulung soll verpflichtend sein.
+ - Das Land soll weiterhin Kulturprojekte von Migrantinnen und Migranten fördern.
+ - Die Erhöhung des gesetzlichen Renteneintrittsalters auf 67 Jahre soll beibehalten werden.
+ - Asylbewerber und Asylbewerberinnen sollen eine uneingeschränkte Arbeitserlaubnis erhalten.
+ - Der Schutz der "stillen Tage" soll beibehalten werden (Tanzverbot).
+ - Die dritte Startbahn am Münchener Flughafen soll gebaut werden.
+ - Abbau der Verflechtung von Kirche und Staat in Bayern!
+ - Der Einsatz von Schneekanonen soll in den bayerischen Skigebieten verboten werden.
+parties:
+ - name: Christlich Demokratische Union Deutschlands / Christlich-Soziale Union in Bayern e.V.
+   short: CDU/CSU
+   answers: [-1, +1, +1, +1,  0, +1, +1, +1, +1, -1, -1, -1, +1, -1, +1, +1, -1, -1, +1,  0, -1, +1, -1, -1,  0, -1,  0, +1, -1,  0, -1, +1, +1, -1, +1,  0, -1, -1]
+ - name: Sozialdemokratische Partei Deutschlands
+   short: SPD
+   answers: [-1, +1, -1, +1, +1,  0, +1, -1, +1, -1, +1, -1, +1, +1, +1, +1, +1, -1, +1, +1, +1, +1, -1, +1, -1,  0, +1, -1, +1, +1, -1, +1, -1, +1, +1, -1,  0,  0]
+ - name: FREIE WÄHLER
+   short: FW
+   answers: [-1, +1, -1, +1, -1, -1, +1, +1, +1, -1, -1, +1, +1, -1, +1, +1, -1, +1, +1,  0, +1, +1, -1, -1, -1, -1, -1, +1,  0, +1, +1, +1, -1, -1, +1, -1, -1, -1]
+ - name: BÜNDNIS 90/DIE GRÜNEN
+   short: Grüne
+   answers: [-1, -1, -1, +1, +1, -1, +1, -1, -1, -1, +1, +1, -1, +1,  0, -1,  0, -1, +1, -1, +1, -1, -1, +1,  0, +1, -1, -1, +1, -1, -1, +1, +1, +1, +1, -1, +1,  0]
+ - name: Freie Demokratische Partei
+   short: FDP
+   answers: [+1, +1, -1, -1, -1, -1, +1, -1, +1, -1, +1, -1, +1, -1, +1, +1, -1, +1, +1, -1, +1, -1, -1, -1, +1, -1, -1, +1, +1, +1, -1, +1, +1, +1, -1, +1, +1, -1]
+ - name: DIE LINKE
+   short: Linke
+   answers: [-1, -1, -1, +1, +1, -1, +1, -1, -1, -1, +1, +1, -1, +1,  0, -1, +1, +1, +1, +1, +1,  0, -1, +1, -1, +1, +1, -1, +1, +1, +1, +1, -1, +1, -1, -1, +1, +1]
+ - name: Ökologisch-Demokratische Partei
+   short: ÖDP
+   answers: [-1, +1, -1, +1, +1,  0, +1, +1,  0, -1, -1, -1, -1, -1, +1, +1, +1,  0, +1, +1, -1, +1, -1, +1, -1, -1, +1, +1, -1, -1, -1, +1, -1, -1, +1, -1, -1, +1]
+ - name: Republikaner
+   short: REP
+   answers: [-1, +1, +1, +1, -1,  0, -1, +1, +1, +1, -1,  0,  0, -1, -1, +1, -1, +1, -1, +1, -1, +1, +1, -1, -1, +1, +1, +1, -1, +1, -1, -1, -1, -1, +1,  0, +1,  0]
+ - name: Nationaldemokratische Partei Deutschlands
+   short: NPD
+   answers: [-1, +1, +1, +1, +1, -1, -1, +1, +1, +1, -1, +1, -1, -1, -1, +1, +1, +1, -1, +1, -1, +1, +1, -1, -1, +1, -1, +1, -1, +1, -1, -1, -1, -1,  0, -1, +1, +1]
+ - name: Bayernpartei
+   short: BP
+   answers: [ 0, +1, +1, +1,  0, -1, +1, +1, +1,  0, +1,  0, -1, -1, +1, +1, -1, -1, -1, +1, -1, +1,  0, -1, +1, -1,  0, +1, +1, +1, -1,  0, -1,  0, +1, -1, -1, -1]
+ - name: Bürgerrechtsbewegung Solidarität
+   short: BüSo
+   answers: [-1, -1, -1, +1,  0, -1, +1, +1, -1, -1, -1, -1,  0,  0,  0, +1, -1, +1, +1, +1, -1, +1, -1, -1, +1, -1, +1, +1, +1, +1, +1, +1, -1, -1, +1, +1, +1, -1]
+ - name: Bürgerrechtspartei für mehr Freiheit und Demokratie - DIE FREIHEIT
+   short: Freiheit
+   answers: [+1, +1, +1, +1, -1, +1, +1, +1, +1, +1, -1, +1, +1, -1, +1, +1, -1, +1, -1,  0, -1, +1, +1, -1, -1, -1, -1, +1,  0, +1, +1,  0, +1, -1, -1, +1, +1, -1]
+ - name: FRAUENLISTE Bayern e.V.
+   short: Frauenliste
+   answers: [-1, +1, +1, +1, +1, +1, +1, -1,  0, -1, +1,  0, +1, +1, +1, -1, +1, +1, +1, +1, +1,  0, -1, +1, -1,  0, +1, +1, +1, +1, +1, +1, -1, -1, +1, -1, +1,  0]
+ - name: Partei für Franken
+   short: Franken
+   answers: [-1, +1, +1, -1, +1, +1, +1,  0, +1, +1, -1, -1, -1, -1, +1, +1, -1, -1, -1,  0, +1, +1,  0, -1, -1, -1, +1, +1, +1, +1, +1,  0,  0, -1, +1, -1, +1, -1]
+ - name: Piratenpartei Deutschland
+   short: Piraten
+   answers: [+1, -1, -1, +1, +1, -1, +1, -1, -1, -1, +1, +1,  0, -1,  0, -1,  0,  0, +1,  0, +1, -1, -1, +1,  0, +1, -1, -1, +1, -1,  0, +1,  0, +1, -1, -1, +1, +1]
+order: [ 5, 3, 14, 1, 12, 4, 11, 7, 8, 9, 13, 0, 6, 2, 10 ] # weighted
+...

@@ -1,0 +1,157 @@
+title: Bundestagswahl 2021
+questions:
+ - Auf allen Autobahnen soll ein generelles Tempolimit gelten.
+ - Deutschland soll seine Verteidigungsausgaben erhöhen.
+ - Bei Bundestagswahlen sollen auch Jugendliche ab 16 Jahren wählen dürfen.
+ - Die Förderung von Windenergie soll beendet werden.
+ - Die Möglichkeiten der Vermieterinnen und Vermieter, Wohnungsmieten zu erhöhen, sollen gesetzlich stärker begrenzt werden.
+ - Impfstoffe gegen Covid-19 sollen weiterhin durch Patente geschützt sein.
+ - Der für das Jahr 2038 geplante Ausstieg aus der Kohleverstromung soll vorgezogen werden.
+ - Alle Erwerbstätigen sollen in der gesetzlichen Rentenversicherung versichert sein müssen.
+ - Das Recht anerkannter Flüchtlinge auf Familiennachzug soll abgeschafft werden.
+ - Auf den Umsatz, der in Deutschland mit digitalen Dienstleistungen erzielt wird, soll eine nationale Steuer erhoben werden.
+ - Die traditionelle Familie aus Vater, Mutter und Kindern soll stärker als andere Lebensgemeinschaften gefördert werden.
+ - Spenden von Unternehmen an Parteien sollen weiterhin erlaubt sein.
+ - Studentinnen und Studenten sollen BAföG unabhängig vom Einkommen ihrer Eltern erhalten.
+ - In Deutschland soll es generell möglich sein, neben der deutschen eine zweite Staatsbürgerschaft zu haben.
+ - Bundesbehörden sollen in ihren Veröffentlichungen unterschiedliche Geschlechtsidentitäten sprachlich berücksichtigen.
+ - Die Ostsee-Pipeline „Nord Stream 2“, die Gas von Russland nach Deutschland transportiert, soll wie geplant in Betrieb gehen dürfen.
+ - Der Solidaritätszuschlag soll vollständig abgeschafft werden.
+ - Das Tragen eines Kopftuchs soll Beamtinnen im Dienst generell erlaubt sein.
+ - Die Zulassung von neuen Autos mit Verbrennungsmotor soll auch langfristig möglich sein.
+ - Der Bund soll mehr Zuständigkeiten in der Schulpolitik erhalten.
+ - Der Bund soll Projekte zur Bekämpfung des Antisemitismus stärker finanziell unterstützen.
+ - Chinesische Firmen sollen keine Aufträge für den Ausbau der Kommunikationsinfrastruktur in Deutschland erhalten dürfen.
+ - Der Staat soll weiterhin für Religionsgemeinschaften die Kirchensteuer einziehen.
+ - Der kontrollierte Verkauf von Cannabis soll generell erlaubt sein.
+ - Deutschland soll aus der Europäischen Union austreten.
+ - Die Landeslisten der Parteien für die Wahlen zum Deutschen Bundestag sollen abwechselnd mit Frauen und Männern besetzt werden müssen.
+ - Stationäre Behandlungen im Krankenhaus sollen weiterhin über eine Fallpauschale abgerechnet werden.
+ - Auf hohe Vermögen soll wieder eine Steuer erhoben werden.
+ - Bei der Videoüberwachung öffentlicher Plätze soll Gesichtserkennungssoftware eingesetzt werden dürfen.
+ - Auch Ehepaare ohne Kinder sollen weiterhin steuerlich begünstigt werden.
+ - Ökologische Landwirtschaft soll stärker gefördert werden als konventionelle Landwirtschaft.
+ - Islamische Verbände sollen als Religionsgemeinschaften staatlich anerkannt werden können.
+ - Der staatlich festgelegte Preis für den Ausstoß von CO2 beim Heizen und Autofahren soll stärker steigen als geplant.
+ - Die Schuldenbremse im Grundgesetz soll beibehalten werden.
+ - Asyl soll weiterhin nur politisch Verfolgten gewährt werden.
+ - Der gesetzliche Mindestlohn soll spätestens im Jahr 2022 auf mindestens 12 Euro erhöht werden.
+ - Der Flugverkehr soll höher besteuert werden.
+ - Unternehmen sollen selbst entscheiden, ob sie ihren Beschäftigten das Arbeiten im Homeoffice erlauben.
+parties:
+ - name: Christlich Demokratische Union Deutschlands / Christlich-Soziale Union in Bayern e.V.
+   short: CDU/CSU
+   answers: [-1, +1, -1, -1,  0, +1, -1, -1, -1,  0, -1, +1, -1, -1,  0, +1, +1, -1, +1, -1, +1,  0, +1, -1, -1,  0, +1, -1, +1, +1,  0,  0,  0, +1, +1,  0, -1, +1]
+ - name: Sozialdemokratische Partei Deutschlands
+   short: SPD
+   answers: [+1, +1, +1, -1, +1, +1, +1, +1, -1, +1, -1, +1, -1, +1, +1, +1, -1, -1, -1, +1, +1, -1, +1, +1, -1, +1, -1, +1, -1, +1, +1, +1, -1, +1, +1, +1, +1, -1]
+ - name: Alternative für Deutschland
+   short: AfD
+   answers: [-1, +1, -1, +1, -1, +1, -1, +1, +1, +1, +1, +1, -1, -1, -1, +1, +1, -1, +1, -1, +1, +1,  0, -1, +1, -1, -1, -1,  0, +1, -1, -1, -1, +1, +1, -1, -1, +1]
+ - name: Freie Demokratische Partei
+   short: FDP
+   answers: [-1, +1, +1,  0, -1, +1,  0, -1,  0, -1, -1, +1, +1,  0,  0,  0, +1,  0, +1, +1, +1, +1, +1, +1, -1, -1, +1, -1, -1, +1, -1, +1,  0, +1, +1, -1, -1,  0]
+ - name: DIE LINKE
+   short: Linke
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, +1, +1, +1,  0, -1, +1, -1, +1, +1, -1, -1, +1, -1, +1, -1, +1, -1, -1, +1, +1,  0, -1, -1, +1, +1, -1]
+ - name: BÜNDNIS 90/DIE GRÜNEN
+   short: Grüne
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, +1, +1, +1, -1, -1, +1, -1, +1, +1, +1, +1, +1, -1, +1, +1, +1, -1,  0, +1, +1, +1,  0, -1, +1, +1, -1]
+ - name: FREIE WÄHLER
+   short: FW
+   answers: [-1, +1, -1, -1, -1, +1, -1, -1, -1, +1, -1,  0, +1, +1,  0, +1, +1,  0, +1, +1, +1, +1, +1, +1, -1, -1, -1, -1,  0, +1,  0, -1, -1, +1, +1,  0, +1, +1]
+ - name: Die PARTEI Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative
+   short: PARTEI
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, +1, +1, +1, -1, +1, +1, -1, +1, +1, +1, -1, +1, -1, +1, -1, +1, -1, +1, +1, +1, +1, -1, +1, +1, +1, -1]
+ - name: Tierschutzpartei PARTEI MENSCH UMWELT TIERSCHUTZ
+   short: Tierschutz
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1,  0, -1,  0,  0, +1, +1, -1,  0, +1, -1, +1, +1,  0, -1, +1, -1,  0, -1, +1, -1, +1, +1, +1, +1,  0, -1, +1, +1, -1]
+ - name: Nationaldemokratische Partei Deutschlands
+   short: NPD
+   answers: [-1, +1, -1, +1,  0, -1, -1, +1, +1, +1, +1, -1, +1, -1, -1, +1, -1, -1, +1, +1, -1, +1, -1, -1, +1, -1, -1, -1, -1, -1, +1, -1, -1,  0, +1, +1, +1, +1]
+ - name: Piratenpartei Deutschland
+   short: Piraten
+   answers: [-1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, +1, +1, +1,  0, -1, +1,  0, +1, +1, +1, +1, -1, +1, -1, -1, -1, +1, -1, +1, +1, +1, +1, +1, -1, +1, +1, +1]
+ - name: Ökologisch-Demokratische Partei
+   short: ÖDP
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, +1, +1, -1, -1, -1, +1, -1, -1, +1, +1, +1, +1, -1, -1, -1, +1, -1, -1, +1, +1, +1, -1,  0, +1, +1, -1]
+ - name: V-Partei^3 - Partei für Veränderung, Vegetarier und Veganer
+   short: V^3
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, +1, +1, +1, -1, +1, +1, -1, +1, +1, +1, -1, +1, -1, -1, -1, +1, -1, +1, +1, +1, +1, +1, -1, +1, +1, -1]
+ - name: DEMOKRATIE IN BEWEGUNG
+   short: DiB
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, +1, +1, +1,  0, +1, +1, -1, +1, +1, +1, -1, +1, -1, +1, -1, +1, -1, -1, +1, +1, +1,  0, -1, +1, +1,  0]
+ - name: Bayernpartei
+   short: BP
+   answers: [-1, +1, -1,  0, -1, +1, +1,  0, +1, +1, +1, -1, -1, -1, -1,  0, +1, -1, +1, -1,  0, +1, +1, -1, -1, -1, -1, -1, -1, +1, -1, -1, -1, +1, +1, -1, +1, +1]
+ - name: Tierschutzallianz Allianz für Menschenrechte, Tier- und Naturschutz
+   short: TierschAll
+   answers: [ 0, -1, +1, -1, +1,  0, +1, +1, -1,  0,  0, -1, +1, +1,  0,  0, +1, -1,  0, +1, +1,  0, -1, +1, -1,  0, -1, +1,  0, -1, +1, +1, -1, +1,  0, +1, +1, +1]
+ - name: Marxistisch-Leninistische Partei Deutschlands
+   short: MLPD
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, -1, +1, +1,  0, -1,  0, -1,  0, +1, -1, -1,  0,  0,  0, -1, +1, -1,  0, +1,  0, -1,  0, -1, +1, +1, -1]
+ - name: Menschliche Welt
+   short: MenschlWlt
+   answers: [+1, -1,  0, +1, +1, -1,  0, +1, -1, +1, +1, -1, -1, -1, +1, +1,  0,  0, +1, +1,  0,  0, -1, +1,  0, -1, -1, +1, -1, +1, +1,  0, -1, -1, +1, +1,  0, +1]
+ - name: Deutsche Kommunistische Partei
+   short: DKP
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, +1, +1, +1, +1, +1,  0, -1, +1, +1, -1, -1, +1, +1, -1, -1, +1, -1, -1, +1,  0, -1, -1, -1, +1, +1, -1]
+ - name: Die Grauen - Für alle Generationen
+   short: Graue
+   answers: [-1,  0, -1,  0, +1,  0,  0, +1, -1,  0, -1, -1, +1, -1, -1,  0, +1, -1, +1, +1,  0, +1, -1, +1, -1, -1, -1, +1,  0, -1, +1, -1, -1, +1, +1, +1, +1, +1]
+ - name: Bürgerrechtsbewegung Solidarität
+   short: BüSo
+   answers: [-1, -1, -1, +1, +1, -1, -1,  0, -1, +1, +1, +1, -1, -1, -1, +1, +1, +1, +1, -1, -1, -1, +1, -1, +1, -1, -1, +1, -1, +1, -1, +1, -1, -1, -1, +1, -1, +1]
+ - name: Partei der Humanisten
+   short: Humanisten
+   answers: [ 0, -1, +1, -1,  0, +1, +1,  0, -1,  0, -1, +1, +1, +1,  0,  0, +1, -1, +1, +1, +1,  0, -1, +1, -1, -1, -1,  0, -1,  0, -1,  0, +1, +1, -1,  0, +1, -1]
+ - name: Die Urbane. Eine HipHop Partei
+   short: urbane
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, +1, +1, +1, -1, -1, +1, -1, +1, +1, +1, -1, +1, -1, +1, -1, +1, -1, -1, +1, +1, -1, -1, -1, +1,  0, -1]
+ - name: Sozialistische Gleichheitspartei, Vierte Internationale
+   short: SoGlP
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, +1, +1,  0, +1, +1, +1, -1, +1, +1, -1, -1, +1, -1, -1, -1, +1, -1, -1, +1, +1, -1, -1, -1, +1, -1, -1]
+ - name: die Basis
+   short: Basis
+   answers: [ 0, -1, +1,  0, +1, -1,  0, +1,  0, +1, +1, -1,  0,  0, -1, +1, +1,  0, +1, -1,  0, +1, -1,  0,  0, -1, -1, +1, -1,  0, +1,  0, -1, +1, +1, +1, +1, +1]
+ - name: bündnis C - Christen für Deutschland
+   short: bd Christen
+   answers: [+1, +1, -1, +1, -1, +1, -1, -1, -1, +1, +1, +1, -1, +1, -1, +1, +1,  0, +1, -1, +1, +1, +1, -1, -1, -1, -1, +1, -1, +1, -1, -1, -1, +1, +1, +1, -1, +1]
+ - name: Bürgerbewegung für Fortschritt und Wandel
+   short: FortWandel
+   answers: [ 0,  0, -1, -1, -1, +1, +1, +1, -1, +1,  0, +1, -1, -1, -1, +1, +1,  0, +1,  0, -1,  0, -1, +1, -1, -1, -1, +1, +1, -1, +1,  0, -1, +1, +1, +1, +1, +1]
+ - name: Der III. Weg
+   short: III. Weg
+   answers: [ 0, +1, -1, +1, +1, -1, -1, +1, +1, +1, +1,  0, +1, -1, -1, +1, +1, -1, +1, +1, -1, +1, -1, -1, +1, -1,  0, +1, -1, -1, +1, -1, -1,  0, +1, +1, -1, +1]
+ - name: Bündnis 21/die Pinken
+   short: Pink
+   answers: [-1, -1, -1, +1, -1, -1, -1, +1, -1, +1, -1, +1, -1, -1, -1, -1, +1, -1, +1, -1, -1, -1, -1, +1, -1, -1, +1, -1, -1, +1, -1, -1, -1, -1, +1, +1, -1, +1]
+ - name: Europäische Partei LIEBE
+   short: Liebe
+   answers: [+1, +1, +1, +1, +1, +1, -1, +1, -1, +1, +1, +1, +1, -1, +1, +1, +1, +1, +1, +1, +1, +1, +1, +1, -1, +1, +1, +1, +1, +1, +1, -1, +1, +1, +1, +1, -1, +1]
+ - name: Liberal-Konservative Reformer
+   short: LibKoRef
+   answers: [-1, +1, -1, +1, -1, +1, -1, -1, -1, -1, -1, -1, +1, -1, -1, +1, +1, -1, +1, -1, +1, +1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, +1, +1, -1, -1, +1]
+ - name: Partei des Fortschritts
+   short: Fortschritt
+   answers: [-1, +1,  0, -1,  0, -1,  0, +1, -1,  0, -1, +1, -1, +1, +1, +1, +1, +1,  0, +1, +1, +1, -1, +1, -1,  0, -1, -1, -1, +1, +1, +1, -1, +1, +1,  0, +1, -1]
+ - name: Lobbyisten für Kinder und Jugendliche
+   short: Kinder+Jug
+   answers: [+1, -1, +1,  0,  0, -1, +1, +1, -1,  0, -1, -1, +1,  0, +1,  0,  0,  0,  0,  0,  0,  0,  0,  0, -1,  0,  0,  0,  0, -1, +1,  0,  0,  0, -1, +1,  0, -1]
+ - name: Südschleswigscher Wählerverband
+   short: SSW
+   answers: [+1,  0, +1, -1, +1,  0, +1, +1, -1, +1, -1, +1, +1, +1,  0, -1, +1, +1, -1, -1, +1, +1, +1, +1, -1, -1, -1, +1, -1, -1, +1, +1, -1,  0, -1, +1, +1, +1]
+ - name: Team Todenhöfer - Die Gerechtigkeitspartei
+   short: Todenhöfer
+   answers: [-1, -1,  0, -1, -1, -1, -1, +1, -1, +1, -1, +1, +1, +1, -1, +1, +1, +1, +1, +1, +1, -1, -1, +1, -1, -1, -1, -1, -1, +1, +1, +1, -1, +1,  0, -1, +1, +1]
+ - name: UNABHÄNGIGE für bürgernahe Demokratie
+   short: Unabh
+   answers: [-1,  0,  0, +1, +1,  0,  0, +1,  0, +1, +1,  0,  0, -1, -1, +1, +1, -1, +1, +1,  0, +1, -1, +1, -1, -1, -1, +1,  0, -1, +1,  0, -1, +1, +1, +1,  0,  0]
+ - name: Volt Deutschland
+   short: Volt
+   answers: [+1, -1, +1, -1, +1, -1, +1, +1, -1, +1, -1, +1, +1, +1, +1, -1, +1, +1, -1, +1, +1, -1, -1, +1, -1, +1, -1, -1, -1, -1, +1, +1, +1, -1, -1, +1, +1, +1]
+# - name: Partei für Gesundheitsforschung
+#   short: Gesundheit
+#   answers: [ 0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0]
+order: [15, 10, 21, 32, 16, 18, 23, 36, 33, 11, 5, 13, 4, 22, 7, 8, 12, 1, 31, 34, 20, 28, 26, 17, 9, 27, 24, 19, 35, 29, 25, 2, 14, 0, 3, 6, 30] # weighted
+...

@@ -1,0 +1,97 @@
+title: Landtagswahl Bayern 2018
+questions:
+- In bayerischen Städten sollen Fahrverbote für Dieselfahrzeuge verhängt werden können.
+- In bayerischen Behörden sollen weiterhin gut sichtbar Kreuze im Eingangsbereich hängen.
+- Geschäfte in Bayern sollen werktags auch nach 20 Uhr geöffnet haben dürfen.
+- Anstelle von Geld sollen Asylbewerberinnen und -bewerber in Bayern weitestgehend Sachleistungen erhalten.
+- Bayern soll einen dritten Nationalpark bekommen.
+- Die Befugnisse der bayerischen Polizei sollen wieder stärker beschränkt werden.
+- Der Besuch von Kinderbetreuungseinrichtungen soll bis zur Einschulung gebührenfrei sein.
+- Es sollen keine abgelehnten Asylbewerberinnen und -bewerber abgeschoben werden, solange ihnen in einer Kirche Schutz gewährt wird.
+- In bayerischen Städten und Gemeinden soll keine Mietpreisbremse gelten.
+- In den bayerischen Schulen soll flächendeckend islamischer Religionsunterricht angeboten werden.
+- Bayern soll sich dafür einsetzen, dass alle Studierenden BAföG unabhängig vom Einkommen ihrer Eltern erhalten können.
+- Bayerische Polizistinnen und Polizisten sollen bei allen Einsätzen eine individuelle Kennzeichnung tragen.
+- Die Anerkennung von im Ausland erworbenen Berufsabschlüssen in der Pflege soll vereinfacht werden.
+- Die Videoüberwachung auf öffentlichen Plätzen soll ausgeweitet werden.
+- Für die Gehälter der Bischöfe soll der Freistaat keine Zahlungen an die Kirchen mehr leisten.
+- Der Freistaat soll Bau und Erwerb von selbstgenutzten Wohnimmobilien für Familien mit Kindern finanziell unterstützen.
+- Die zulässige Höchstgeschwindigkeit soll auf allen bayerischen Fernverkehrsstraßen gesenkt werden.
+- Asylbewerberinnen und -bewerber sollen bis zum Ende ihres Asylverfahrens an wenigen zentralen Standorten in Bayern untergebracht werden.
+- In Bayern soll es für Weiterbildungen ein Recht auf Freistellung von der Arbeit geben.
+- Der Mindestabstand von Windrädern zur Wohnbebauung soll verringert werden.
+- Der Freistaat soll sich für eine staatliche Regulierung des Milchpreises einsetzen.
+- Die Erinnerung an die Verbrechen des Nationalsozialismus muss zentraler Bestandteil der Schulausbildung bleiben.
+- Der Freistaat soll die Niederlassung von Ärztinnen und Ärzten im ländlichen Raum stärker finanziell fördern.
+- Schülerinnen und Schüler, Studierende sowie Auszubildende in Bayern sollen den ÖPNV gebührenfrei nutzen dürfen.
+- Empfängerinnen und Empfängern von Arbeitslosengeld II ("Hartz IV") sollen auch weiterhin Leistungen gekürzt werden können, wenn sie Jobangebote ablehnen.
+- In den bayerischen Alpen soll der Bau von Seilbahnen, Skiabfahrten und Straßen in mehr Gebieten als bisher verboten sein.
+- Zuwanderer sollen neben dem Sprachunterricht auch Wertekunde besuchen müssen.
+- In Bayern soll die Bebauung von landwirtschaftlichen oder naturbelassenen Flächen gesetzlich begrenzt werden.
+- Bei Kommunalwahlen sollen alle dauerhaft in Bayern wohnenden Ausländerinnen und Ausländer wählen dürfen.
+- Die bayerischen Universitäten sollen Diplom- und Magisterstudiengänge anstelle des Bachelor- und Masterstudiums anbieten.
+- Der Flughafen München soll eine dritte Startbahn bekommen.
+- Die ökologische Landwirtschaft soll vom Land vorrangig gefördert werden.
+- In der Schule soll vorrangig das traditionelle Familienbild (Vater, Mutter und Kinder) vermittelt werden.
+- Die Bayerische Grenzpolizei soll abgeschafft werden.
+- Alle Schülerinnen und Schüler mit Behinderungen sollen ausschließlich an allgemeinen Schulen (z.B. Grundschule, Mittelschule, Realschule und Gymnasium) unterrichtet werden.
+- Das "Tanzverbot" an den stillen Tagen (z.B. Karfreitag, Volkstrauertag) soll beibehalten werden.
+- Die Amtszeit des Bayerischen Ministerpräsidenten soll begrenzt werden.
+- Bei Landtagswahlen sollen Jugendliche ab 16 Jahren wählen dürfen.
+parties:
+ - name: Christlich-Soziale Union in Bayern e.V.
+   short: CSU
+   answers: [-1, +1, -1, +1, -1, -1,  0,  0,  0, -1,  0, -1, +1, +1, -1, +1, -1, +1, -1, -1,  0, +1, +1, +1, +1,  0, +1,  0, -1,  0, +1,  0, +1, -1, -1, +1, +1, -1]
+ - name: Sozialdemokratische Partei Deutschlands
+   short: SPD
+   answers: [-1, -1, -1, -1, +1, +1, +1, +1, -1, +1, +1, +1, +1, +1, -1, +1, +1, -1, +1, +1, -1, +1, +1, +1, -1, +1, -1, +1, +1, -1, -1, +1, -1, +1, +1, -1, -1, +1]
+ - name: FREIE WÄHLER Bayern
+   short: FW
+   answers: [-1, +1, -1, +1, -1,  0, +1, +1, -1,  0, -1, -1, +1, +1, -1, +1, -1, -1, +1, +1, +1, +1, +1, -1, +1, -1, +1, -1, +1, +1, -1, -1, -1, +1, -1, +1, -1, -1]
+ - name: BÜNDNIS 90/DIE GRÜNEN
+   short: Grüne
+   answers: [+1, -1,  0, -1, +1, +1,  0, +1, -1, +1, +1, +1, +1, -1, +1, -1, +1, -1, +1, +1,  0, +1, +1, +1, -1, +1, -1, +1, +1, -1, -1, +1, -1, +1, -1, -1, -1, +1]
+ - name: Freie Demokratische Partei
+   short: FDP
+   answers: [-1, -1, +1, +1,  0, +1, +1, -1, +1, -1, +1, +1, +1, -1, +1, +1, -1, -1,  0, -1, -1, +1, +1,  0, +1,  0, +1, -1, +1, -1, +1, -1, -1, +1, -1, -1, +1, +1]
+ - name: DIE LINKE
+   short: Linke
+   answers: [+1, -1, -1, -1, +1, +1, +1, +1, -1, -1, +1, +1, +1, -1, +1, -1, +1, -1, +1, +1, +1, +1, +1, +1, -1, +1, -1, +1, +1, -1, -1, +1, -1, +1, +1, -1,  0, +1]
+ - name: Bayernpartei
+   short: BP
+   answers: [-1, +1, -1, +1,  0,  0, +1, -1,  0, -1, +1,  0, +1, -1, -1, +1, -1,  0, +1, -1, -1, +1, +1,  0, +1, +1, +1, +1, -1, +1, -1,  0, +1, -1, -1, +1, +1, -1]
+ - name: Ökologisch-Demokratische Partei
+   short: ÖDP
+   answers: [+1, +1, -1, -1, +1, +1, -1, +1, -1, +1, -1, -1, -1, +1, -1, +1, +1, -1, +1, +1, -1, +1, +1, +1, +1, +1, +1, +1, -1, +1, -1, +1, +1,  0, -1, +1, +1, +1]
+ - name: Piratenpartei Deutschland
+   short: Piraten
+   answers: [ 0, -1, +1, -1, +1, +1, +1, -1, -1, -1, +1, +1, +1, -1, +1, +1, -1, -1, +1, +1, -1, +1, +1, +1, -1, +1, +1, +1, +1, -1, -1, +1, -1, +1, -1, -1, +1, +1]
+ - name: Partei für Franken
+   short: Franken
+   answers: [+1,  0, +1,  0, +1,  0, +1, +1, -1, +1, -1, +1, +1, +1,  0, +1,  0, -1, -1,  0,  0, +1, +1, +1, +1, +1, +1, +1, -1, +1, -1, +1, +1, +1, -1, +1, -1, -1]
+ - name: Alternative für Deutschland
+   short: AfD
+   answers: [-1, +1, -1, +1, -1, +1, +1, -1, +1, -1, -1, -1, -1, -1, +1, +1, -1, +1, -1, -1, +1, -1, +1, +1, +1, +1, +1, +1, -1, +1,  0, -1, +1, -1, -1, -1, +1, -1]
+ - name: Liberal-Konservative Reformer - Die EURO-Kritiker
+   short: LibKoRef
+   answers: [-1, +1, -1, +1, -1, -1, +1, -1, +1, +1, +1, -1, -1, +1, -1, +1, -1, +1, -1, -1, -1, +1, -1, +1, +1, -1, -1, -1,  0, +1, +1, -1, +1, -1, -1, +1, +1, -1]
+ - name: mut
+   short: mut
+   answers: [+1, -1, -1, -1, +1, +1, +1, +1, -1, +1, -1, +1, +1, -1,  0, -1, +1, -1, +1, +1, +1, +1, +1, +1, -1, +1, -1, +1, +1, -1, -1, +1, -1, +1, +1, +1, +1, +1]
+ - name: Partei der Humanisten
+   short: Humanisten
+   answers: [-1, -1, +1, -1, +1,  0, +1, -1, -1, -1, +1, +1, +1, -1, +1, +1,  0, -1, +1, +1, -1, +1, +1, +1, -1,  0, +1, -1, +1, -1,  0, -1, -1, +1, -1, -1,  0, +1]
+ - name: Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative
+   short: PARTEI
+   answers: [-1, -1, +1, -1, +1, +1, +1,  0, -1, -1, +1, +1,  0, -1, +1, +1, -1, -1, +1, -1, +1, +1, +1, +1, -1, +1,  0, +1,  0, -1, -1, +1, -1, +1, +1, -1, +1, +1]
+ - name: PARTEI MENSCH UMWELT TIERSCHUTZ
+   short: Tierschutz
+   answers: [-1, -1, +1, -1, +1, +1, +1, -1, -1, -1, -1, +1, +1, -1, +1, +1, +1, -1, +1, -1, +1, +1, +1, +1, -1, +1, -1, +1, +1, -1, -1, +1, -1, +1, +1, -1, +1, +1]
+ - name: V-Partei3 - Partei für Veränderung, Vegetarier und Veganer
+   short: V^3
+   answers: [+1, -1, +1, -1, +1, +1, +1, +1, -1, +1, +1, +1, +1, -1, +1, +1, +1, -1, +1, +1, -1, +1, -1, +1, -1, +1, -1, +1, +1, -1, -1, +1, -1, +1, -1, -1, +1, +1]
+# - name: Partei für Gesundheitsforschung
+#   short: Gesundheit
+#   answers: [ 0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0]
+order: [4, 14, 15, 8, 13, 1, 16, 12, 3, 5, 10, 6, 0, 11, 2, 7, 9]
+...
